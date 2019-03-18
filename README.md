@@ -1,4 +1,4 @@
-# A-Class
+# For a class on Friday D:
 <head>
 workshop 
 This is a workshop for CECS 105
