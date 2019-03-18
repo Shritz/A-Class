@@ -1,7 +1,9 @@
 # For a class on Friday D:
 <head>
 workshop 
+<list>
 This is a workshop for CECS 105
+    </list>
 </head>
 <body>
 <h1>
